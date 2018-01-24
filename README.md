@@ -10,7 +10,7 @@
 
 * Step #1 Download this repository (https://github.com/lanchondo/Hangman-Node)
 * Step #2 Go to the directory of where it the repo downloaded to within terminal
-* Step #2 Run command 'npm install' then 'npm is-letter then 'npm inquirer' within terminal
+* Step #2 Run command 'npm install' then 'npm install is-letter' then 'npm inquirer' within terminal
 * Step #3 Run command 'node main.js' to get started  within terminal
 
 ## Resources & Tech
